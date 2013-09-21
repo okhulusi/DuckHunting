@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B1C33E1F-33A4-4CDA-9FA4-D63BB780DB79</string>
+	<key>IDESourceControlProjectName</key>
+	<string>duckhunt</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B19C6339-F3BE-427E-A439-F07A527C9712</key>
+		<string>http://itpsvn.usc.edu/svn/itp/20133/382/okhulusi</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>duckhunt/duckhunt.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B19C6339-F3BE-427E-A439-F07A527C9712</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>B19C6339-F3BE-427E-A439-F07A527C9712</key>
+		<string>http://itpsvn.usc.edu/svn/itp</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://itpsvn.usc.edu/svn/itp/20133/382/okhulusi/duckhunt/duckhunt.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B19C6339-F3BE-427E-A439-F07A527C9712</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B19C6339-F3BE-427E-A439-F07A527C9712</string>
+			<key>IDESourceControlWCCName</key>
+			<string>okhulusi</string>
+		</dict>
+	</array>
+</dict>
+</plist>
